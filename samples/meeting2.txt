@@ -1,0 +1,5 @@
+Design Review – June 30
+
+- Finalize new UI components by July 5.
+- Aditi to lead documentation draft.
+- Customers want light + dark themes.
